@@ -12,7 +12,7 @@
         <module name="miniproject_0" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="miniproject_0" target="1.8" />
       <module name="miniproject_1" target="1.8" />
       <module name="miniproject_2" target="1.8" />
