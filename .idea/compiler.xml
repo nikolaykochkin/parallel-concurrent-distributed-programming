@@ -9,6 +9,7 @@
         <module name="miniproject_1" />
         <module name="miniproject_2" />
         <module name="miniproject_3" />
+        <module name="miniproject_4" />
         <module name="miniproject_0" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="miniproject_1" target="1.8" />
       <module name="miniproject_2" target="1.8" />
       <module name="miniproject_3" target="1.8" />
+      <module name="miniproject_4" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
