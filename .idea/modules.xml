@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/concurrent/miniproject_0/concurrent_miniproject_0.iml" filepath="$PROJECT_DIR$/concurrent/miniproject_0/concurrent_miniproject_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent/miniproject_1/concurrent_miniproject_1.iml" filepath="$PROJECT_DIR$/concurrent/miniproject_1/concurrent_miniproject_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/parallel/miniproject_0/miniproject_0.iml" filepath="$PROJECT_DIR$/parallel/miniproject_0/miniproject_0.iml" />
       <module fileurl="file://$PROJECT_DIR$/parallel/miniproject_1/miniproject_1.iml" filepath="$PROJECT_DIR$/parallel/miniproject_1/miniproject_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/parallel/miniproject_2/miniproject_2.iml" filepath="$PROJECT_DIR$/parallel/miniproject_2/miniproject_2.iml" />
