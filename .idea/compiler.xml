@@ -11,6 +11,7 @@
         <module name="miniproject_3" />
         <module name="miniproject_4" />
         <module name="miniproject_0" />
+        <module name="concurrent_miniproject_3" />
         <module name="concurrent_miniproject_1" />
         <module name="concurrent_miniproject_2" />
         <module name="concurrent_miniproject_0" />
@@ -20,6 +21,7 @@
       <module name="concurrent_miniproject_0" target="1.8" />
       <module name="concurrent_miniproject_1" target="1.8" />
       <module name="concurrent_miniproject_2" target="1.8" />
+      <module name="concurrent_miniproject_3" target="1.8" />
       <module name="miniproject_0" target="1.8" />
       <module name="miniproject_1" target="1.8" />
       <module name="miniproject_2" target="1.8" />
